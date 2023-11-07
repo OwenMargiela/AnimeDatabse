@@ -11,20 +11,21 @@ To get started with Anime Explorer, follow these steps:
 
    ```bash
    git clone https://github.com/OwenMargiela/AnimeDatabse.git
-Change your working directory:
+2. Change your working directory:
 
-bash
-Copy code
-cd AnimeDatabse
-Install the necessary dependencies:
-
-npm install
-Start the development server:
-
-npm start
+    ``` bash
+    cd AnimeDatabse
+    
+3. Install the necessary dependencies:
+    ``` bash
+    npm install
+    
+4. Start the development server:
+   ``` bash
+   npm start
 The app will be available at http://localhost:3000 in your web browser.
 
-Features
+#Features
 Explore a vast selection of anime titles.
 View detailed anime descriptions.
 Check where to stream each anime.
@@ -32,7 +33,7 @@ Add anime to your favorites list for easy access.
 Search for specific anime titles.
 Sort anime by popularity, rating, or release date.
 
-Usage
+#Usage
 Anime List: Browse the list of available anime titles. Click on a title to view its details.
 
 Anime Details: Get a detailed description of the anime, including where you can stream it.
@@ -43,31 +44,36 @@ Sorting: Sort anime titles by popularity, rating, or release date.
 
 Search: Use the search bar to find a specific anime title.
 
-Technologies Used
+#Technologies Used
 React
 Jikan API (https://jikan.moe/)
 CSS for styling
-Contributing
-To contribute to this project, please follow these steps:
+
+# To contribute to this project, please follow these steps:
 
 Fork the repository.
 
 Create a new branch for your feature or bug fix:
 
-
+```bash
 git checkout -b feature/your-feature-name
+```
+
 Make your changes and commit them:
 
-
+``` bash 
 git commit -m 'Add your feature or fix'
+```
+
 Push your changes to your fork:
 
 bash
-Copy code
+```
 git push origin feature/your-feature-name
-Create a pull request in the original repository.
+```
 
 
 
-Enjoy exploring anime with Anime Explorer!
+
+
 
