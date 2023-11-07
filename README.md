@@ -72,6 +72,9 @@ bash
 git push origin feature/your-feature-name
 ```
 
+![image](https://github.com/OwenMargiela/AnimeDatabse/assets/114600833/d21a7f8e-a8a6-4ea5-8a20-5598e5a63bbf)
+
+
 
 
 
