@@ -1,0 +1,12 @@
+.anime__container{
+    margin: 8px 16px;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.anime__image--container img{
+    border-radius: 16px;
+}
+.anime__container--wrapper{
+    display: flex;
+}

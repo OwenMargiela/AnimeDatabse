@@ -1,0 +1,50 @@
+.anime__container{
+    margin: 14px 16px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 0 20px 80px rgb(0, 0, 0, 0.45);
+    transition: all 300ms ease;
+}
+
+
+.anime__container:hover{
+    opacity: 1;
+  transform: translateY(5%);
+}
+
+.anime__container:hover .anime__title{
+    opacity: 1;
+    transform: translateY(-50%);
+}
+
+.anime__container:hover .anime__image{
+    transform: scale(1.07);
+    filter: blur(2px);
+}
+
+
+
+.anime__image{
+    border-radius: 16px;
+    /* object-fit: contain; */
+    height: 300px;
+    width: 200px;
+}
+
+.anime__container--wrapper{
+    display: flex;
+}
+
+.anime__title{
+    position: absolute;
+    top: 20%;
+    left: 10px;
+    transform: translateY(100%);
+    opacity: 0;
+    transition: opacity 300ms, transform 450ms ease;
+    color: white;
+    max-width: 550px;
+    
+
+}
+

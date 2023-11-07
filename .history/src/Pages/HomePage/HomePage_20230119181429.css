@@ -1,0 +1,13 @@
+.landing__image--container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.landing__image{
+    object-fit: cover;
+    width: 1200px;
+    min-width: 300px;
+    height: 400px;
+    border-radius: 24px;
+}

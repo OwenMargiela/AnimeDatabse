@@ -1,0 +1,12 @@
+.landing__image--container{
+
+}
+
+.landing__image{
+    object-fit: cover;
+    width: 1200px;
+    min-width: 300px;
+    height: 400px;
+    border-radius: 24px;
+    margin: 0 auto;
+}

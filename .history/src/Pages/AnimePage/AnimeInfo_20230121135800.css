@@ -1,0 +1,52 @@
+.anime__info--container {
+  display: flex;
+  border: 1px solid black;
+  margin: 56px 0;
+  padding: 24px 48px;
+  border-radius: 4rem;
+}
+
+.anime__description {
+  margin-left: 16px;
+}
+
+.Description__genres,
+.Description__themes {
+  margin: 16px 0;
+  display: flex;
+}
+
+.description__genre,
+.description__theme {
+  margin-left: 4px;
+  padding: 2px 6px;
+  border: 1px solid black;
+  border-radius: 1rem;
+}
+
+.Description__Miscillanious--item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  padding: 2px 3px;
+  border-radius: 8px;
+  margin-left: 16px;
+}
+
+.Description__Miscillanious{
+    display: flex;
+    margin-top: 16px;
+
+}
+
+.add__btn{
+    display: flex;
+    margin-top: 16px;
+}
+
+.add__btn button{
+    background: none;
+    border: none;
+    margin-left: 4px;
+}

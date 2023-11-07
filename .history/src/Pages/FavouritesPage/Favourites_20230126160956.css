@@ -1,0 +1,18 @@
+.favs_info{
+    border: 1px solid black;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.remove__btn{
+    display: flex;
+    align-items: center;justify-content: center;
+    padding: 8px;
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+}
+.remove__icon{
+    font-size: 16px;
+}

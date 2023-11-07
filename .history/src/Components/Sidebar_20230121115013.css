@@ -1,0 +1,36 @@
+.sidebar{
+    border: none;
+    background-color: #a3a3a3;
+}
+.sidebar__head{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+}
+
+.sidebar__head--img{
+    width: 50%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.sidebar__list{
+    margin-left: 8px;
+    margin-top: 32px;
+}
+
+.sidebar__list--item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+.sidebar__list--item-icon{
+    height: 32px;
+    width: 32px;
+}
+
+.sidebar__list--item p{
+    margin-left: 16px;
+    
+}

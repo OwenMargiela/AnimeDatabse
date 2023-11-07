@@ -1,0 +1,11 @@
+.sidebar{
+    border: none;
+    background-color: #a3a3a3;
+}
+
+.sidebar__list--item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}

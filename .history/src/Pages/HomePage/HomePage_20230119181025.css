@@ -1,0 +1,6 @@
+.landing__image--container{
+    object-fit: contain;
+    width: 500px;
+    height: 100vh;
+
+}

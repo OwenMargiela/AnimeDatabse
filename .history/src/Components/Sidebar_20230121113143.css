@@ -1,0 +1,15 @@
+.sidebar{
+    border: none;
+    background-color: #a3a3a3;
+}
+
+.sidebar__list--item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.sidebar__list--item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}

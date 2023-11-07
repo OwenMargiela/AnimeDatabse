@@ -1,0 +1,8 @@
+.landing__image--container{
+}
+
+.landing__image{
+    object-fit: cover;
+    width: 900px;
+    height: 400px;
+}

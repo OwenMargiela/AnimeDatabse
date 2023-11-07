@@ -1,0 +1,27 @@
+.anime__container{
+    margin: 14px 16px;
+    border: 1px solid black;
+    padding: 6px 8px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 0 20px 80px rgb(0, 0, 0, 0.45);
+    /* overflow: hidden; */
+}
+
+.anime__image{
+    border-radius: 16px;
+    object-fit: contain;
+    height: 100%;
+    width: 200px;
+    
+
+}
+.anime__container--wrapper{
+    display: flex;
+}
+
+.anime__title{
+    position: absolute;
+    color: rgb(231, 231, 231);
+}
+

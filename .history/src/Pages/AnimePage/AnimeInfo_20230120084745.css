@@ -1,0 +1,17 @@
+.anime__info--container{
+    
+    display: flex;
+    border: 1px solid black;
+    margin: 56px 0;
+    padding: 24px 48px;
+    border-radius: 4rem;
+}
+
+.anime__description{
+    margin-left: 16px;
+}
+
+/* .Description__genres,
+.Description__themes{
+    display: flex;
+} */
